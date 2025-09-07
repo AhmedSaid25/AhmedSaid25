@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Ahmed Said
-
-**Software Engineer (Backend focus)** · Cairo, Egypt  
-📧 ahmedsaidmaghawry1@gmail.com ·  [LinkedIn](https://www.linkedin.com/in/ahmed-said-6b00a0207/) 
-
 ---
 
 ## 💼 Work Experience
