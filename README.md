@@ -2,7 +2,7 @@
 
 ## 💼 Work Experience
 
-- **Microsoft – Software Engineer (Contract), Clarity Team**  
+- **Microsoft – Software Engineer**  
   *Feb 2025 – Present, Cairo*  
 
 - **IBM – Software Engineer Intern, Cloud Integration**  
