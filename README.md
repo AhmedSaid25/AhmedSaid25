@@ -1,9 +1,13 @@
-
+##  Profile
+Software Engineer with hands-on experience at Microsoft, IBM, and NTG Clarity.
+I’ve worked on diverse types of projects, including web applications, desktop apps and integration tools.
+I have a strong foundation in computer science and problem solving, and I’m always eager to learn and grow.
+Open to contributing to impactful projects — whether in fast-paced startups or large-scale enterprises.
 
 ## 💼 Work Experience
 
 - **Microsoft – Software Engineer**  
-  *Feb 2025 – Present, Cairo*  
+  *Feb 2025 – Sep 2025, Cairo*  
 
 - **IBM – Software Engineer Intern, Cloud Integration**  
   *Jun 2024 – Dec 2024, Cairo*  
