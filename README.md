@@ -9,7 +9,7 @@ Open to contributing to impactful projects — whether in fast-paced startups or
 - **Microsoft – Software Engineer**  
   *Feb 2025 – Sep 2025, Cairo*  
 
-- **IBM – Software Engineer Intern, Cloud Integration**  
+- **IBM – Software Engineer - Cloud Integration**  
   *Jun 2024 – Dec 2024, Cairo*  
 
 ---
